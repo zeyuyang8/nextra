@@ -5,6 +5,26 @@
     "title": "Artificial Intelligence"
   },
   "machine-learning": "",
+  "-- mathematics": {
+    "type": "separator",
+    "title": "Mathematics"
+  },
+  "differential-geometry": "",
+  "-- computer-science": {
+    "type": "separator",
+    "title": "Computer Science"
+  },
+  "algorithms": "",
+  "-- electrical-engineering": {
+    "type": "separator",
+    "title": "Electrical Engineering"
+  },
+  "analog-and-digital-electronics": "",
+  "-- Life": {
+    "type": "separator",
+    "title": "Life"
+  },
+  "faith": "",
   "-- nextra": {
     "type": "separator",
     "title": "Nextra"
