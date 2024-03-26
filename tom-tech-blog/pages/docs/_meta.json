@@ -1,5 +1,14 @@
 {
-  "index": "Introduction",
+  "index": "Home",
+  "-- artificial-intelligence": {
+    "type": "separator",
+    "title": "Artificial Intelligence"
+  },
+  "machine-learning": "",
+  "-- nextra": {
+    "type": "separator",
+    "title": "Nextra"
+  },
   "guide": "",
   "-- Themes": {
     "type": "separator",
