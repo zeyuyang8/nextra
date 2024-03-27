@@ -1,5 +1,4 @@
 {
-  "index": "Home",
   "-- artificial-intelligence": {
     "type": "separator",
     "title": "Artificial Intelligence"
@@ -20,15 +19,16 @@
     "title": "Electrical Engineering"
   },
   "analog-and-digital-electronics": "",
-  "-- Life": {
+  "-- philosophy": {
     "type": "separator",
-    "title": "Life"
+    "title": "Philosophy"
   },
-  "faith": "",
+  "faith-in-christ": "",
   "-- nextra": {
     "type": "separator",
     "title": "Nextra"
   },
+  "intro": "Introduction",
   "guide": "",
   "-- Themes": {
     "type": "separator",
